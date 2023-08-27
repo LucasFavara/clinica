@@ -1,6 +1,6 @@
 # clinica
 
- Desafio de Projeto DIO - Site Clínica
+ Desafio de Projeto DIO - Site Clínica - [https://lucasfavara.github.io/clinica/]
 
  O desafio consiste em desenvolver o site quase completo de uma clínica de especialidade de escolha do própio desenvolvedor, com tudo que foi abordado nas aulas do curso no módulo de HTML.
 
